@@ -8,7 +8,6 @@ This React app uses the `react-speech-recognition` library to provide speech rec
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [License](#license)
 
 ## Demo
 
@@ -36,3 +35,8 @@ To run this app locally, follow these steps:
 - Start the development server:
   ```bash
       npm start
+## Usage
+   - Click the "Start Listening" button to begin speech recognition.
+   - Speak into your microphone, and the app will convert your speech to text in real-time.
+   - Click the "Stop Listening" button to stop speech recognition.
+   - To copy the generated text to the clipboard, click the "Copy to Clipboard" button.
